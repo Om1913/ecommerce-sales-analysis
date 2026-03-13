@@ -1,4 +1,4 @@
-📊 E-Commerce Sales Analysis Dashboard (Power BI)
+📊 E-Commerce Sales Analysis (Power BI)
 
 This project presents an interactive Power BI dashboard created to analyze e-commerce sales data and generate meaningful business insights. The dashboard helps visualize sales performance, profit trends, customer behavior, and payment methods using dynamic charts and filters.
 
@@ -11,11 +11,8 @@ The dataset contains information related to orders, sales amount, profit, quanti
 The dashboard includes the following key insights:
 
 Total Sales Amount: 438K
-
 Total Profit: 37K
-
 Total Quantity Sold: 5615
-
 Average Order Value (AOV): 121K
 
 Visualizations Included
@@ -39,11 +36,8 @@ Interactive filters for Quarter and State allow users to dynamically explore the
 🛠 Tools Used
 
 Microsoft Power BI
-
 Data Modeling
-
 Data Visualization
-
 Interactive Dashboard Design
 
 🎯 Outcome
